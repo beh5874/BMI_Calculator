@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="normal">Normal</string>
+    <string name="normalBMI">BMI : 18.5 - 24.9 (Normal)</string>
+    <string name="weight">Weight(kg) :</string>
+    <string name="height">Height(cm) :</string>
+    <string name="editWeight">Weight</string>
+    <string name="editHeight">Height</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+</resources>
